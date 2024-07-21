@@ -1,4 +1,5 @@
 # Mark Udo Williams Resume
 Welcome to my GitHub repository! Here you will find my Resume
+[MarkUdo Williams Secu.pdf](https://github.com/user-attachments/files/16326248/MarkUdo.Williams.Secu.pdf)
 
-[Mark Udo Williams Resume3.docx](https://github.com/user-attachments/files/16196133/Mark.Udo.Williams.Resume3.docx)
+
